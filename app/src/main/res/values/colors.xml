@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#252525</color>
+    <color name="colorSecondary">#2a2a2a</color>
+    <color name="my_light_primary">#252525</color>
+    <color name="my_light_secondary">#2a2a2a</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cursor_blue">#0197f6</color>
+    <color name="blue">#0000FF</color>
+    <color name="button_backgroud">#ffffff</color>
+
+    <color name="background">#ffffff</color>
+
+    <color name="note_a">#ffffff</color>
+    <color name="note_b">#ef5350</color>
+    <color name="note_c">#f7e8a0</color>
+    <color name="note_d">#c1e8ca</color>
+    <color name="note_e">#f9e9dd</color>
+    <color name="note_f">#fbfad9</color>
+    <color name="recycler_view">#fcfbff</color>
+</resources>

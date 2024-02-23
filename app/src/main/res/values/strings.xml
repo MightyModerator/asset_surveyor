@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Asset Surveyor</string>
+    <string name="app_subtitle"> </string>
+    <string name="app_description">Document IT expansions and report security related observations!</string>
+    <string name="login">Add Report</string>
+    <string name="signed_in">Signed in</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_message">Description</string>
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+    <string name="del">Delete</string>
+    <string name="note_saved">Report saved</string>
+    <string name="note_deleted">Report deleted</string>
+    <string name="confirm_delete">Do you really want to delete this Report?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="logo_desc">Logo just a report</string>
+    <string name="img_desc">Image for the report</string>
+    <string name="share">Share</string>
+    <string name="share_title">Title of the report: </string>
+    <string name="share_message">Report description: </string>
+    <string name="share_subject">A Report for you</string>
+    <string name="share_choose">Share with</string>
+    <string name="share_not_saved">You have to save your report before sharing is possible</string>
+    <string name="compose_shortcut_short_label1">Add a new report</string>
+    <string name="compose_shortcut_long_label1">Add a new report</string>
+    <string name="compose_disabled_message1">Shortcut disabled</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="get_location">Get Location</string>
+    <string name="longitude">Longitude - </string>
+    <string name="latitude">Latitude - </string>
+    <string name="urgent">Urgent </string>
+    <string name="not_urgent">Not Urgent </string>
+    <string name="permissions_granted">Permissions Granted</string>
+    <string name="permissions_denied">Permissions Denied</string>
+    <string name="undo">Undo</string>
+    <string name="noNote">So far you have no report …</string>
+    <string name="normal_map">Normal Map</string>
+    <string name="hybrid_map">Hybrid Map</string>
+    <string name="satellite_map">Satellite Map</string>
+    <string name="terrain_map">Terrain Map</string>
+    <string name="lat_long_snippet">Lat: %1$.5f, Long: %2$.5f</string>
+    <string name="dropped_pin">Dropped Pin</string>
+    <string name="poi">poi</string>
+    <string name="editInfo">Save a picture or your location. It makes it easier for you to assign your report:</string>
+
+
+</resources>

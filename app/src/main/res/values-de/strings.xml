@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Nur eine Notiz</string>
+    <string name="app_subtitle">Halten wir es einfach</string>
+    <string name="app_description">Du wirst nie wieder einen andere Notizen App verwenden. Wir versprechen es!</string>
+    <string name="login">Lass uns anfangen</string>
+    <string name="signed_in">Angemeldet</string>
+    <string name="hint_title">Titel</string>
+    <string name="hint_message">Beschreibung</string>
+    <string name="add">Hinzufügen</string>
+    <string name="save">Speichern</string>
+    <string name="back">Zurück</string>
+    <string name="note_saved">Notiz gespeichert</string>
+    <string name="del">Löschen</string>
+    <string name="note_deleted">Notiz gelöscht</string>
+    <string name="confirm_delete">Möchtest du diese Notiz wirklich löschen?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="logo_desc">Logo von nur eine Notiz</string>
+    <string name="img_desc">Bild für die Notiz</string>
+    <string name="share">Teilen</string>
+    <string name="share_title">Titel der Notiz: </string>
+    <string name="share_message">Beschreibung der Notiz: </string>
+    <string name="share_subject">Eine Notiz für dich</string>
+    <string name="share_choose">Teilen über</string>
+    <string name="share_not_saved">Du musst deine Notiz speichern, bevor das Teilen möglich ist</string>
+    <string name="compose_shortcut_short_label1">Neue Notiz hinzufügen</string>
+    <string name="compose_shortcut_long_label1">Neue Notiz hinzufügen</string>
+    <string name="compose_disabled_message1">Abkürzung deaktiviert</string>
+    <string name="upload_image">Bild hochladen</string>
+    <string name="get_location">Standort ermitteln</string>
+    <string name="longitude">Längengrad - </string>
+    <string name="latitude">Breitengrad - </string>
+    <string name="urgent">Urgent </string>
+    <string name="not_urgent">Not Urgent </string>
+    <string name="permissions_granted">Berechtigungen erteilt</string>
+    <string name="permissions_denied">Berechtigungen verweigert</string>
+    <string name="undo">Rückgängig</string>
+    <string name="noNote">Bis jetzt hast du keine Notizen …</string>
+    <string name="normal_map">Normal</string>
+    <string name="hybrid_map">Hybrid</string>
+    <string name="satellite_map">Satellit</string>
+    <string name="terrain_map">Landschaft </string>
+    <string name="lat_long_snippet">Lat: %1$.5f, Long: %2$.5f</string>
+    <string name="dropped_pin">Dropped Pin</string>
+    <string name="poi">poi</string>
+    <string name="editInfo">Speichere ein Bild oder deinen Standort. Das erleichtert die Zuordnung deiner Notiz:</string>
+
+
+</resources>
